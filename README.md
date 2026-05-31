@@ -10,6 +10,7 @@
 
 - [Cisco CCNP Enterprise](https://www.credly.com/badges/a4bc20b4-d39a-4971-a9ab-34c03768618c)
 - [Cisco CCNP Security](https://www.credly.com/badges/98e8226f-cf0a-4f59-91cc-65cf00471b73)
+- [Cisco CCNA Routing and Switching](https://www.credly.com/badges/e956c28e-afd5-45fb-9c0b-51b79386276f)
 
 <h2> 🤳 Connect with me:</h2>
 
