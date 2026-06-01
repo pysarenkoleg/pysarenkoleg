@@ -1,10 +1,8 @@
 <h1>Hello, I'm Oleg! <br/> <a href="https://www.linkedin.com/in/oleg-pysarenko-510692144/">Network Engineer</a>, <a href="https://github.com/pysarenkoleg">Programmer</a>,
 
-<h2>👨‍💻 Networking projects:</h2>
+<h2>👨‍💻 About me:</h2>
 
-- <b>Migrated VeloCloud, Sophos, Cisco ASA and Palo Alto firewalls to Meraki SD-WAN solution, including transferring access control rules, configuring site-to-site VPN tunnels between city locations, updating network policies, and verifying security features, installed two redundant connections from different ISP providers</b>
-- <b>Designed the layout of new communication room, including the placement of network equipment, fiber optic cables, redundant electrical power source, proper grounding, HVAC system requirements, IT racks</b>
-- <b>Maintained and supported the city's mission-critical SCADA system (VTScada) for water and wastewater operations, ensuring real-time visibility and remote control of dispersed assets: pumps, valves, lift stations, treatment facilities</b>
+- <b>I am a Network Engineer with extensive experience designing, securing, and managing large-scale enterprise and critical infrastructure networks. My expertise includes network architecture, cybersecurity, SD-WAN, cloud connectivity, firewall administration, and operational technology (OT/SCADA) systems, with a strong focus on reliability, performance, and security.</b>
 
 <h2>👨‍💻 Certifications:</h2>
 
